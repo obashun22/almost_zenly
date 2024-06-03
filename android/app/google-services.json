@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910917613796",
+    "project_id": "almostzenly-45f5f",
+    "storage_bucket": "almostzenly-45f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910917613796:android:7e3a9fd4e4d37cca8c94f1",
+        "android_client_info": {
+          "package_name": "com.example.almost_zenly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55SzmYiThOwEjnsKeYjHQ964aBRHHc-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
